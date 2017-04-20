@@ -1,3 +1,0 @@
-# TriplePendulum
-
-Hello world!
