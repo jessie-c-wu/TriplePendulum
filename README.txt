@@ -8,4 +8,6 @@ Animation_Main.py reads a user-defined textfile (ie Data_Main) and animates the 
 
 The Documentation folder contains the final report, final presentation, and appropriate back-up files.
 
+The Animations folder contains video files of all the animations.
+
 The Other folder contains alternative applications of the code, namely other applications of Lagrangian systems. These include a double pendulum, triple pendulum, and a pendulum spring.
